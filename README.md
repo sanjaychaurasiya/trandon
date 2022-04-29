@@ -31,8 +31,8 @@ Response --
   This api is used to login a user, it will give the refresh and access token as a response. It takes json arguments-
   
     {
-      "email" : "smtptesting409@gmail.com",
-      "password" : "smtp@409"
+      "email" : "<email>",
+      "password" : "<password>"
     }
 
 Response --
